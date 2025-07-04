@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🔭 I’m currently studying at Tarumanagara University
+#### 🌱 I’m currently learning Laravel and Spring Boot
+
+#### Skills
+
+#### 📫 How to reach me: ...
